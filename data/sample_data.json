@@ -1,0 +1,34 @@
+[
+	{
+		"word" : "happy",
+		"count" : 24
+	},
+	{
+		"word" : "sad",
+		"count" : 8
+	},
+	{
+		"word" : "joy",
+		"count" : 6
+	},
+	{
+		"word" : "play",
+		"count" : 35
+	},
+	{
+		"word" : "anger",
+		"count" : 10
+	},
+	{
+		"word" : "boy",
+		"count" : 17
+	},
+	{
+		"word" : "girl",
+		"count" : 48
+	},
+	{
+		"word" : "world",
+		"count" : 2
+	}
+]
