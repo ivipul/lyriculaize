@@ -1,0 +1,72 @@
+[
+    {
+        "word": "love",
+        "wordCount": "2",
+        "spotifyId": "1234",
+        "artist": "Adele",
+        "genre": "Rock"
+    },
+    {
+        "word": "love",
+        "wordCount": "1",
+        "spotifyId": "1235",
+        "artist": "RadioHead",
+        "genre": "Pop"
+    },
+    {
+        "word": "love",
+        "wordCount": "3",
+        "spotifyId": "1235",
+        "artist": "RadioHead",
+        "genre": "Rock"
+    },
+    {
+        "word": "hate",
+        "wordCount": "3",
+        "spotifyId": "1236",
+        "artist": "Adele",
+        "genre": "Rock"
+    },
+    {
+        "word": "hate",
+        "wordCount": "5",
+        "spotifyId": "1235",
+        "artist": "RadioHead",
+        "genre": "Pop"
+    },
+    {
+        "word": "hate",
+        "wordCount": "1",
+        "spotifyId": "1234",
+        "artist": "RadioHead",
+        "genre": "Jazz"
+    },
+    {
+        "word": "hate",
+        "wordCount": "2",
+        "spotifyId": "1236",
+        "artist": "Bieber",
+        "genre": "Pop"
+    },
+    {
+        "word": "hate",
+        "wordCount": "1",
+        "spotifyId": "1237",
+        "artist": "Bieber",
+        "genre": "Rock"
+    },
+    {
+        "word": "desire",
+        "wordCount": "4",
+        "spotifyId": "1234",
+        "artist": "Adele",
+        "genre": "Rock"
+    },
+    {
+        "word": "desire",
+        "wordCount": "3",
+        "spotifyId": "1235",
+        "artist": "Bieber",
+        "genre": "Jazz"
+    }
+]

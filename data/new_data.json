@@ -1,0 +1,200 @@
+{
+    "A": [
+        {
+            "word": "happy",
+            "count": 24
+        },
+        {
+            "word": "sad",
+            "count": 8
+        },
+        {
+            "word": "joy",
+            "count": 2
+        },
+        {
+            "word": "anger",
+            "count": 1
+        },
+        {
+            "word": "bgers",
+            "count": 1
+        }
+    ],
+    "B": [
+        {
+            "word": "happy",
+            "count": 14
+        },
+        {
+            "word": "play",
+            "count": 13
+        },
+        {
+            "word": "anger",
+            "count": 11
+        },
+        {
+            "word": "bgers",
+            "count": 19
+        }
+    ],
+    "C": [
+        {
+            "word": "happy",
+            "count": 14
+        },
+        {
+            "word": "sad",
+            "count": 38
+        },
+        {
+            "word": "joy",
+            "count": 32
+        },
+        {
+            "word": "play",
+            "count": 16
+        },
+        {
+            "word": "anger",
+            "count": 17
+        },
+        {
+            "word": "bgers",
+            "count": 27
+        }
+    ],
+	"D": [],
+	"E": [],
+    "F": [
+        {
+            "word": "happy",
+            "count": 21
+        },
+        {
+            "word": "sad",
+            "count": 18
+        },
+        {
+            "word": "joy",
+            "count": 26
+        },
+        {
+            "word": "play",
+            "count": 33
+        },
+        {
+            "word": "anger",
+            "count": 41
+        },
+        {
+            "word": "bgers",
+            "count": 18
+        }
+    ],
+	"G": [],
+    "H": [
+        {
+            "word": "happy",
+            "count": 33
+        },
+        {
+            "word": "bgers",
+            "count": 1
+        }
+    ],
+	"I": [],
+	"J": [],	
+    "K": [
+        {
+            "word": "happy",
+            "count": 27
+        },
+        {
+            "word": "sad",
+            "count": 18
+        },
+        {
+            "word": "joy",
+            "count": 36
+        },
+        {
+            "word": "play",
+            "count": 19
+        },
+        {
+            "word": "anger",
+            "count": 17
+        },
+        {
+            "word": "bgers",
+            "count": 25
+        }
+    ],
+	"L": [],
+	"M": [],
+    "N": [
+        {
+            "word": "happy",
+            "count": 20
+        },
+        {
+            "word": "sad",
+            "count": 38
+        },
+        {
+            "word": "joy",
+            "count": 26
+        },
+        {
+            "word": "play",
+            "count": 30
+        },
+        {
+            "word": "anger",
+            "count": 11
+        },
+        {
+            "word": "bgers",
+            "count": 6
+        }
+    ],
+	"O": [],
+	"P": [],
+	"Q": [],
+	"R": [],
+	"S": [],
+	"T": [],
+	"U": [],
+	"V": [],
+	"W": [],
+	"X": [],
+	"Y": [],
+    "Z": [
+        {
+            "word": "happy",
+            "count": 14
+        },
+        {
+            "word": "sad",
+            "count": 18
+        }	,
+        {
+            "word": "joy",
+            "count": 26
+        },
+        {
+            "word": "play",
+            "count": 30
+        },
+        {
+            "word": "anger",
+            "count": 11
+        },
+        {
+            "word": "bgers",
+            "count": 17
+        }
+    ]
+}
