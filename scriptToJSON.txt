@@ -1,0 +1,7 @@
+d3.json("data/newDataFormat.json", init);
+	function init(json){
+	var nested_data = d3.nest()
+.key(function(d) { return d.genre;})
+.rollup(function(leaves) { return {"length": leaves.length, "total_count": d3.sum(leaves, function(d) {return parseFloat(d.genre);})} }) 
+.entries(newDataFormat);
+	}
